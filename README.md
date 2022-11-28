@@ -30,7 +30,7 @@ tugas membuat latihan dan program sederhana
 
 #### kita akan menggunakan perintah perulangan, diawal masukkan judul, dan pekerjaan pertama yang kita lakukan adalah. memasukkan input [(L)ihat, (T)ambah, (U)bah, (C)ari, (K)eluar]
 
-![ss1](foto/ss1)
+![ss1](foto/ss1.png)
 
 #### setelahnya masukkan perintah if/elif untuk memberikan perintah untuk setiap inpuntannya, dan masukkan setiap perintah yangakan muncul di setiap pemberian perintah.
 
